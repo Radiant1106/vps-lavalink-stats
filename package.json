@@ -1,0 +1,22 @@
+{
+  "name": "vps-status",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "erela.js": "^2.3.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "os": "^0.1.2",
+    "prettysize": "^2.0.0",
+    "systeminformation": "^5.11.9"
+  }
+}
