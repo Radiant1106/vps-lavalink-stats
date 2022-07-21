@@ -4,9 +4,9 @@
     "nodes": [
         {
             "identifier": "Public-Lavalink",
-            "host": "",
+            "host": "localhost",
             "port": 80,
-            "password": ""
+            "password": "dsc.gg/cyberdev"
         }
     ]
 }
