@@ -59,4 +59,4 @@ readdirSync("./events/").forEach(file => {
 });
 
 
-client.login(config.token);
+client.login(process.env.token || config.token);
